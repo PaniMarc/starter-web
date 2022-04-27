@@ -5,6 +5,7 @@ git push
 
 ## Introduction
 
+git commit -am "message"
 
 ## Purpose
 
