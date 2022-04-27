@@ -9,6 +9,8 @@ git commit -am "message"
 
 ## Purpose
 
-
+git add 
 
 ##Deployment
+
+niente proprio
