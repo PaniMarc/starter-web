@@ -5,6 +5,7 @@ Hope that this serves you well
 
 ## Introduction
 
+Git add commit push
 ## Purpose
 
 Sample website with plenty of files for demos
