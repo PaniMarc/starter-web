@@ -14,3 +14,7 @@ git add
 ##Deployment
 
 niente proprio
+
+##Copyright
+
+nuova sezione, è tutto miooooooooooo
