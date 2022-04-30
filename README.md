@@ -18,3 +18,6 @@ niente proprio
 ##Copyright
 
 nuova sezione, è tutto miooooooooooo
+
+##How To Contibuite
+don't do it
