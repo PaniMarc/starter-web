@@ -3,7 +3,7 @@
 
 # TEAM
 
-    <name> -- <role> -- <twitter>
+    Marco Panico--git expret-- marcopanico1996@gmail.it
 
 # THANKS
 
