@@ -3,7 +3,7 @@
 git commit -am "message"
 git push
 
-Per rebase abbiamo aggiunto sta riga 
+Per rebase abbiamo aggiunto sta riga. Quest altra riga è stata aggiiunta dal branch myfeature
 
 ## Introduction
 
