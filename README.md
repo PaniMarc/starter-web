@@ -3,6 +3,8 @@
 git commit -am "message"
 git push
 
+Per rebase abbiamo aggiunto sta riga 
+
 ## Introduction
 
 git commit -am "message"
